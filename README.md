@@ -1,6 +1,4 @@
-Welcome to the VAC: 
-
-WD Hotel Website Project! This project is a hotel website developed for showcasing hotel amenities, room bookings, and other relevant information. It utilizes HTML, CSS, JavaScript, Bootstrap, and Swift to provide a seamless user experience.
+Web Development Hotel Website Project! This project is a hotel website developed for showcasing hotel amenities, room bookings, and other relevant information. It utilizes HTML, CSS, JavaScript, Bootstrap, and Swift to provide a seamless user experience.
 
 Features:
 
