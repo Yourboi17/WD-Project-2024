@@ -63,6 +63,11 @@ video {
   margin-top: 10px;
 }
 
+.nav-item.nav-link.active:hover {
+  text-decoration: underline;
+  color: #007bff;
+}
+
 .fa {
   padding: 10px;
   text-align: center;
