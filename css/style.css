@@ -125,3 +125,34 @@ video {
     float: none;
   }
 }
+
+.services {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.service {
+  width: 300px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.service img {
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.service h3 {
+  margin-top: 10px;
+}
+
+.content {
+  text-align: center;
+}
+
+.space-image {
+  margin-top: 7px;
+}
